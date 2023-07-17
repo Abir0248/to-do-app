@@ -1,10 +1,10 @@
 import React from "react";
-import ToDoList from "./ToDoList"; // adjust the import path if necessary
+import TodoList from "./TodoList";
 
 const App = () => {
   return (
     <div className="App">
-      <ToDoList />
+      <TodoList />
     </div>
   );
 };
